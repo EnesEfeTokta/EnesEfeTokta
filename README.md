@@ -1,4 +1,8 @@
-![Banner]((https://github.com/EnesEfeTokta/EnesEfeTokta/blob/main/BannerImage.png))
+###
+
+<img align="right" height="350" src="https://github.com/EnesEfeTokta/EnesEfeTokta/blob/main/BannerImage.png"  />
+
+###
 
 <h2 align="left">Hello everyone, I'm Enes Efe Tokta</h2>
 
