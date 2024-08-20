@@ -4,9 +4,9 @@
 
 ###
 
-<h2 align="left">Hello everyone, I'm Enes Efe Tokta</h2>
+<br>
 
-<br clear="both">
+<h2 align="left">Hello everyone, I'm Enes Efe Tokta</h2>
 
 ###
 
