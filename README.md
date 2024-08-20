@@ -1,6 +1,6 @@
 ###
 
-<img align="right" height="350" src="https://github.com/EnesEfeTokta/EnesEfeTokta/blob/main/BannerImage.png"  />
+<img align="right" height="300" src="https://github.com/EnesEfeTokta/EnesEfeTokta/blob/main/BannerImage.png"  />
 
 ###
 
