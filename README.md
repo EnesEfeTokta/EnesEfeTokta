@@ -1,4 +1,4 @@
-![Banner](https://photos.app.goo.gl/KF4aJRiswed7YcBw7)
+![Banner]((https://github.com/EnesEfeTokta/EnesEfeTokta/blob/main/BannerImage.png))
 
 <h2 align="left">Hello everyone, I'm Enes Efe Tokta</h2>
 
