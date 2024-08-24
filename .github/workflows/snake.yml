@@ -3,7 +3,7 @@ name: Generate Snake
 on:
   push:
     branches:
-    - main  # Eğer başka bir branch kullanıyorsan burayı güncelle.
+    - main
   workflow_dispatch:
 
 jobs:
