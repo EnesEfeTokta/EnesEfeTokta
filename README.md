@@ -6,6 +6,10 @@
 <h1 align="center">Hello, I'm Enes Efe Tokta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
+  <b>The projects I'm interested in right now.</b>
+</p>
+
+<p align="center">
   <a href="https://github.com/EnesEfeTokta?tab=repositories&sort=stargazers">
     <img alt="FinTrackWebApi Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=EnesEfeTokta&repo=FinTrackWebApi&theme=dracula&border_radius=10&show_owner=true" height="120"/> 
   </a>
