@@ -74,7 +74,9 @@
        <img src="https://static-00.iconduck.com/assets.00/postgresql-icon-1987x2048-v2fkmdaw.png" height="35" alt="PostgreSQL" title="PostgreSQL"/>  
        <img src="https://cdn.prod.website-files.com/61ddd0b42c51f89b7de1e910/667f2d98856e323d92d5c7cb_667f2b52e7524d84e7615bd9_1200px-Sqlite-square-icon.svg.png" height="35" alt="SQLite" title="SQLite"/>  
        <img src="https://img.icons8.com/color/512/supabase.png" height="35" alt="Supabase" title="Supabase"/>  
-       <img src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-3-pack-logos-icons-2944871.png" height="35" alt="Firebase" title="Firebase"/>  
+       <img src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-3-pack-logos-icons-2944871.png" height="35" alt="Firebase" title="Firebase"/>&nbsp;&nbsp;
+       <img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="35" alt="MongoDB" title="MongoDB"/>&nbsp;&nbsp;&nbsp;
+       <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" height="35" alt="Redis" title="Redis"/>
       <!-- Other DB/Services -->
     </td>
   </tr>
