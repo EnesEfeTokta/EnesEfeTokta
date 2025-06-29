@@ -30,17 +30,18 @@
   I'm a software developer dedicated to solving problems and crafting innovative solutions through code. I particularly enjoy developing scalable backend systems with <strong>C#</strong> and the <strong>.NET</strong> ecosystem, and creating engaging game experiences with <strong>Unity</strong>. I also have experience in developing applications for the Android platform using <strong>Kotlin</strong>. Exploring the endless possibilities offered by technology and continuously improving my skills are my main drivers.
 </p>
 
----
-
 <h2 align="left">🚀 Core Competencies</h2>
 
-*   💻 **Backend Development:** RESTful API Design, Layered Architecture (N-Tier, Onion, Clean Architecture), ORM (Entity Framework Core), Database Management (PostgreSQL, SQLite).
-*   🎮 **Game Development:** Unity Engine, C# Scripting, Game Mechanics, 2D/3D Fundamentals.
-*   ☁️ **Cloud & Services:** Experience with BaaS platforms like Firebase, Supabase.
-*   🛠️ **Tools & Principles:** Git Version Control, SOLID Principles, Familiarity with Agile Methodologies.
-*   📱 **Mobile:** Fundamentals of Android App Development with Kotlin.
 
----
+💻 Backend Development: RESTful API Design, Layered Architecture (N-Tier, Onion, Clean Architecture), ORM (Entity Framework Core), Database Management (PostgreSQL, SQLite).
+
+🎮 Game Development: Unity Engine, C# Scripting, Game Mechanics, 2D/3D Fundamentals.
+
+☁️ Cloud & Services: Experience with BaaS platforms like Firebase, Supabase.
+
+🛠️ Tools & Principles: Git Version Control, SOLID Principles, Familiarity with Agile Methodologies.
+
+📱 Mobile: Fundamentals of Android App Development with Kotlin.
 
 <h2 align="left">🛠️ My Tech Stack</h2>
 
@@ -71,7 +72,7 @@
       <b>Databases & Services</b>
     </td>
     <td>
-       <img src="https://static-00.iconduck.com/assets.00/postgresql-icon-1987x2048-v2fkmdaw.png" height="35" alt="PostgreSQL" title="PostgreSQL"/>  
+       <img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-8-1175119.png?f=webp" height="35" alt="PostgreSQL" title="PostgreSQL"/>  
        <img src="https://cdn.prod.website-files.com/61ddd0b42c51f89b7de1e910/667f2d98856e323d92d5c7cb_667f2b52e7524d84e7615bd9_1200px-Sqlite-square-icon.svg.png" height="35" alt="SQLite" title="SQLite"/>  
        <img src="https://img.icons8.com/color/512/supabase.png" height="35" alt="Supabase" title="Supabase"/>  
        <img src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-3-pack-logos-icons-2944871.png" height="35" alt="Firebase" title="Firebase"/>&nbsp;&nbsp;
@@ -90,23 +91,24 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VS Code" title="VS Code"/>  
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="35" alt="Visual Studio" title="Visual Studio"/>  
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="35" alt="Android Studio" title="Android Studio"/>  
-      <img src="https://static-00.iconduck.com/assets.00/dbeaver-icon-144x142-z0b2pavm.png" height="35" alt="DBeaver" title="DBeaver"/>  
+      <img src="https://store-images.s-microsoft.com/image/apps.43022.14342653579960902.940fae20-fb9a-47f6-b71d-9bbb99a5e739.d9a5a219-36c3-4fe6-adc0-90ca5ea32dff?h=210" height="35" alt="DBeaver" title="DBeaver"/>  
       <!-- Other tools -->
     </td>
   </tr>
 </table>
 
----
-
 <h2 align="left">💡 Current Focus & Learning Goals</h2>
 
-*   🌱 **Microservice Architectures:** Deepening my knowledge in designing and developing microservices with .NET.
-*   ☁️ **Cloud Technologies:** Learning the fundamental services of cloud platforms like Azure or AWS and utilizing them in projects.
-*   🐳 **Containerization:** Learning the basics of Docker and Kubernetes for containerizing applications.
-*   🎮 **Advanced Unity:** Focusing on performance optimization, shader programming, and network programming.
-*   🤝 **Open Source:** Contributing (even in small ways) to open-source projects within my areas of interest.
 
----
+🌱 Microservice Architectures: Deepening my knowledge in designing and developing microservices with .NET.
+
+☁️ Cloud Technologies: Learning the fundamental services of cloud platforms like Azure or AWS and utilizing them in projects.
+
+🐳 Containerization: Learning the basics of Docker and Kubernetes for containerizing applications.
+
+🎮 Advanced Unity: Focusing on performance optimization, shader programming, and network programming.
+
+🤝 Open Source: Contributing (even in small ways) to open-source projects within my areas of interest.
 
 <h2 align="left">📊 My GitHub Activity</h2>
 
@@ -117,8 +119,6 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EnesEfeTokta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&border_radius=10" height="150" alt="Top Languages" />
 </div>
-
----
 
 <h2 align="left">🔗 Connect with Me & Contact</h2>
 
@@ -143,8 +143,6 @@
     <img src="https://img.shields.io/badge/Portfolio-Website-46a2f1?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/>
   </a> 
 </p>
-
----
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/EnesEfeTokta/EnesEfeTokta/output/snake.svg" alt="Snake animation" />
