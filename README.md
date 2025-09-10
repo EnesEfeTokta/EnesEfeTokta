@@ -11,27 +11,28 @@
 
 <p align="center">
   <a href="https://github.com/EnesEfeTokta?tab=repositories&sort=stargazers">
-    <img alt="FinTrackWebApi Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=EnesEfeTokta&repo=FinTrackWebApi&theme=dracula&border_radius=10&show_owner=true" height="120"/> 
+    <img alt="WeatherZeroPlus Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=EnesEfeTokta&repo=WeatherZeroPlus&theme=dracula&border_radius=10&show_owner=true" height="120"/> 
   </a>
   <a href="https://github.com/EnesEfeTokta?tab=repositories&sort=stargazers">
     <img alt="FluxNews Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=EnesEfeTokta&repo=FluxNews&theme=dracula&border_radius=10&show_owner=true" height="120"/>
   </a>
     <a href="https://github.com/EnesEfeTokta?tab=repositories&sort=stargazers">
-    <img alt="Red-Strike Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=EnesEfeTokta&repo=Red-Strike&theme=dracula&border_radius=10&show_owner=true" height="120"/>
+    <img alt="VidSync Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=EnesEfeTokta&repo=VidSync&theme=dracula&border_radius=10&show_owner=true" height="120"/>
   </a>
 </p>
 
 <p align="center">
-  <em>Passionate Software Developer | Focused on .NET Ecosystem & Game Development | Continuous Learner</em><br>
+  <em>Passionate Software Developer | .NET Ecosystem & Game Development | Continuous Learner</em><br>
   📍 Turkey
 </p>
 
 <p align="center">
-  I'm a software developer dedicated to solving problems and crafting innovative solutions through code. I particularly enjoy developing scalable backend systems with <strong>C#</strong> and the <strong>.NET</strong> ecosystem, and creating engaging game experiences with <strong>Unity</strong>. I also have experience in developing applications for the Android platform using <strong>Kotlin</strong>. Exploring the endless possibilities offered by technology and continuously improving my skills are my main drivers.
+👨‍💻 About Me  
+I’m a software developer dedicated to building <b>scalable backend</b> systems with <b>C#</b> and the <b>.NET ecosystem</b>, while also creating engaging <b>game experiences with Unity</b>.  
+I enjoy solving real-world problems, optimizing performance, and applying modern software design principles. My current focus is deepening my expertise in <b>cloud technologies, microservices, and containerization</b> to build solutions at scale.
 </p>
 
 <h2 align="left">🚀 Core Competencies</h2>
-
 
 💻 Backend Development: RESTful API Design, Layered Architecture (N-Tier, Onion, Clean Architecture), ORM (Entity Framework Core), Database Management (PostgreSQL, SQLite).
 
@@ -43,6 +44,20 @@
 
 📱 Mobile: Fundamentals of Android App Development with Kotlin.
 
+
+<h2 align="left">📜 Certifications</h2>
+
+💡 Google Project Management - Google(2023)
+
+💡 Google Game and App Academy Finalist (Top 7 in 3000) - Google, T3 Vakfı and Girvak(2023)
+
+💡 Microsoft Azure Fundamentals AZ-900 Exam Prep - Microsoft(2025)
+
+💡 AWS Cloud Solutions Architect - AWS(2025)
+
+💡 DevOps, Cloud, and Agile Foundations - IBM(2025)
+
+
 <h2 align="left">🛠️ My Tech Stack</h2>
 
 <table width="100%">
@@ -53,7 +68,9 @@
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="C#" title="C#"/>  
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="35" alt=".NET / ASP.NET Core" title=".NET / ASP.NET Core"/>  
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="35" alt="Kotlin" title="Kotlin"/>  
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="35" alt="Kotlin" title="Kotlin"/>
+      <img src="https://images.icon-icons.com/2415/PNG/512/typescript_plain_logo_icon_146316.png" height="35" alt="TypeScript" title="TypeScript"/>
+      <img src="https://images.icon-icons.com/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" height="35" alt="React" title="React"/>
       <!-- Other languages -->
     </td>
   </tr>
@@ -91,7 +108,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VS Code" title="VS Code"/>  
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="35" alt="Visual Studio" title="Visual Studio"/>  
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="35" alt="Android Studio" title="Android Studio"/>  
-      <img src="https://store-images.s-microsoft.com/image/apps.43022.14342653579960902.940fae20-fb9a-47f6-b71d-9bbb99a5e739.d9a5a219-36c3-4fe6-adc0-90ca5ea32dff?h=210" height="35" alt="DBeaver" title="DBeaver"/>  
+      <img src="https://store-images.s-microsoft.com/image/apps.43022.14342653579960902.940fae20-fb9a-47f6-b71d-9bbb99a5e739.d9a5a219-36c3-4fe6-adc0-90ca5ea32dff?h=210" height="35" alt="DBeaver" title="DBeaver"/>
+      <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="35" alt="Postman" title="Postman"/>  
       <!-- Other tools -->
     </td>
   </tr>
