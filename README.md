@@ -47,15 +47,15 @@ I enjoy solving real-world problems, optimizing performance, and applying modern
 
 <h2 align="left">📜 Certifications</h2>
 
-💡 Google Project Management - Google(2023)
+💡 [Google Project Management](https://coursera.org/share/92c0a43ca0f6341f796b591a61f16003) – *Google* (2023)
 
-💡 Google Game and App Academy Finalist (Top 7 in 3000) - Google, T3 Vakfı and Girvak(2023)
+💡 [Google Game and App Academy Finalist (Top 7 of 3000)](https://verified.sertifier.com/tr/verify/29758255143465/) – *Google, T3 Vakfı & Girvak* (2023)
 
-💡 Microsoft Azure Fundamentals AZ-900 Exam Prep - Microsoft(2025)
+💡 [Microsoft Azure Fundamentals (AZ-900) Exam Prep](https://coursera.org/share/278f83e6f7d10b488f958ca805113ec2) – *Microsoft* (2025)
 
-💡 AWS Cloud Solutions Architect - AWS(2025)
+💡 [AWS Cloud Solutions Architect](https://coursera.org/share/5ff8d3256da152f8242bd85ade707c3e) – *Amazon Web Services* (2025)
 
-💡 DevOps, Cloud, and Agile Foundations - IBM(2025)
+💡 [DevOps, Cloud, and Agile Foundations](https://coursera.org/share/87548e548bacbbd69735be6c768c080c) – *IBM* (2025)
 
 
 <h2 align="left">🛠️ My Tech Stack</h2>
