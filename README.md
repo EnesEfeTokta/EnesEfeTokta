@@ -11,7 +11,9 @@
 </p>
 
 <p align="center">
-👨‍💻 About Me  
+
+<h2 align="left">👨‍💻 About Me</h2>
+ 
 I’m a software developer dedicated to building <b>scalable backend</b> systems with <b>C#</b> and the <b>.NET ecosystem</b>, while also creating engaging <b>game experiences with Unity</b>.  
 I enjoy solving real-world problems, optimizing performance, and applying modern software design principles. My current focus is deepening my expertise in <b>cloud technologies, microservices, and containerization</b> to build solutions at scale.
 </p>
