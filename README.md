@@ -6,22 +6,6 @@
 <h1 align="center">Hello, I'm Enes Efe Tokta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
-  <b>The projects I'm interested in right now.</b>
-</p>
-
-<p align="center">
-  <a href="https://github.com/EnesEfeTokta?tab=repositories&sort=stargazers">
-    <img alt="WeatherZeroPlus Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=EnesEfeTokta&repo=WeatherZeroPlus&theme=dracula&border_radius=10&show_owner=true" height="120"/> 
-  </a>
-  <a href="https://github.com/EnesEfeTokta?tab=repositories&sort=stargazers">
-    <img alt="FluxNews Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=EnesEfeTokta&repo=FluxNews&theme=dracula&border_radius=10&show_owner=true" height="120"/>
-  </a>
-    <a href="https://github.com/EnesEfeTokta?tab=repositories&sort=stargazers">
-    <img alt="VidSync Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=EnesEfeTokta&repo=VidSync&theme=dracula&border_radius=10&show_owner=true" height="120"/>
-  </a>
-</p>
-
-<p align="center">
   <em>Passionate Software Developer | .NET Ecosystem & Game Development | Continuous Learner</em><br>
   📍 Turkey
 </p>
