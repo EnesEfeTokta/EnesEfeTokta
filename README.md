@@ -1,159 +1,140 @@
-<div align="center">
-  <!-- Optional: Use a simpler or more technical banner/logo if preferred -->
-  <img src="https://st5.depositphotos.com/9501344/64425/i/450/depositphotos_644254738-stock-photo-long-banner-bright-gradient-background.jpg" alt="Banner" width="1000" height="60" /> 
-</div>
-
-<h1 align="center">Hello, I'm Enes Efe Tokta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
-
-<p align="center">
-  <em>Passionate Software Developer | .NET Ecosystem & Game Development | Continuous Learner</em><br>
-  📍 Turkey
-</p>
-
-<p align="center">
-
-<h2 align="left">👨‍💻 About Me</h2>
- 
-I’m a software developer dedicated to building <b>scalable backend</b> systems with <b>C#</b> and the <b>.NET ecosystem</b>, while also creating engaging <b>game experiences with Unity</b>.  
-I enjoy solving real-world problems, optimizing performance, and applying modern software design principles. My current focus is deepening my expertise in <b>cloud technologies, microservices, and containerization</b> to build solutions at scale.
-</p>
-
-<h2 align="left">🚀 Core Competencies</h2>
-
-💻 Backend Development: RESTful API Design, Layered Architecture (N-Tier, Onion, Clean Architecture), ORM (Entity Framework Core), Database Management (PostgreSQL, SQLite).
-
-🎮 Game Development: Unity Engine, C# Scripting, Game Mechanics, 2D/3D Fundamentals.
-
-☁️ Cloud & Services: Experience with BaaS platforms like Firebase, Supabase.
-
-🛠️ Tools & Principles: Git Version Control, SOLID Principles, Familiarity with Agile Methodologies.
-
-📱 Mobile: Fundamentals of Android App Development with Kotlin.
-
-
-<h2 align="left">📜 Certifications</h2>
-
-💡 [Google Project Management](https://coursera.org/share/92c0a43ca0f6341f796b591a61f16003) – *Google* (2023)
-
-💡 [Google Game and App Academy Finalist (Top 7 of 3000)](https://verified.sertifier.com/tr/verify/29758255143465/) – *Google, T3 Vakfı & Girvak* (2023)
-
-💡 [Microsoft Azure Fundamentals (AZ-900) Exam Prep](https://coursera.org/share/278f83e6f7d10b488f958ca805113ec2) – *Microsoft* (2025)
-
-💡 [AWS Cloud Solutions Architect](https://coursera.org/share/5ff8d3256da152f8242bd85ade707c3e) – *Amazon Web Services* (2025)
-
-💡 [DevOps, Cloud, and Agile Foundations](https://coursera.org/share/87548e548bacbbd69735be6c768c080c) – *IBM* (2025)
-
-
-<h2 align="left">🛠️ My Tech Stack</h2>
-
-<table width="100%">
-  <tr>
-    <td align="center" width="160">
-      <b>Languages & Frameworks</b>
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="C#" title="C#"/>  
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="35" alt=".NET / ASP.NET Core" title=".NET / ASP.NET Core"/>  
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="35" alt="Kotlin" title="Kotlin"/>
-      <img src="https://images.icon-icons.com/2415/PNG/512/typescript_plain_logo_icon_146316.png" height="35" alt="TypeScript" title="TypeScript"/>
-      <img src="https://images.icon-icons.com/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" height="35" alt="React" title="React"/>
-      <!-- Other languages -->
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>Game Development</b>
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="35" alt="Unity" title="Unity"/>  
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="35" alt="Blender" title="Blender"/>  
-      <!-- Other game dev tools -->
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>Databases & Services</b>
-    </td>
-    <td>
-       <img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-8-1175119.png?f=webp" height="35" alt="PostgreSQL" title="PostgreSQL"/>  
-       <img src="https://cdn.prod.website-files.com/61ddd0b42c51f89b7de1e910/667f2d98856e323d92d5c7cb_667f2b52e7524d84e7615bd9_1200px-Sqlite-square-icon.svg.png" height="35" alt="SQLite" title="SQLite"/>  
-       <img src="https://img.icons8.com/color/512/supabase.png" height="35" alt="Supabase" title="Supabase"/>  
-       <img src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-3-pack-logos-icons-2944871.png" height="35" alt="Firebase" title="Firebase"/>&nbsp;&nbsp;
-       <img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="35" alt="MongoDB" title="MongoDB"/>&nbsp;&nbsp;&nbsp;
-       <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" height="35" alt="Redis" title="Redis"/>
-      <!-- Other DB/Services -->
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>Tools & Platforms</b>
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" title="Git"/>  
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker (Learning)" title="Docker (Learning)"/>   <!-- Indicate if you're learning -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VS Code" title="VS Code"/>  
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="35" alt="Visual Studio" title="Visual Studio"/>  
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="35" alt="Android Studio" title="Android Studio"/>  
-      <img src="https://store-images.s-microsoft.com/image/apps.43022.14342653579960902.940fae20-fb9a-47f6-b71d-9bbb99a5e739.d9a5a219-36c3-4fe6-adc0-90ca5ea32dff?h=210" height="35" alt="DBeaver" title="DBeaver"/>
-      <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="35" alt="Postman" title="Postman"/>  
-      <!-- Other tools -->
-    </td>
-  </tr>
-</table>
-
-<h2 align="left">💡 Current Focus & Learning Goals</h2>
-
-
-🌱 Microservice Architectures: Deepening my knowledge in designing and developing microservices with .NET.
-
-☁️ Cloud Technologies: Learning the fundamental services of cloud platforms like Azure or AWS and utilizing them in projects.
-
-🐳 Containerization: Learning the basics of Docker and Kubernetes for containerizing applications.
-
-🎮 Advanced Unity: Focusing on performance optimization, shader programming, and network programming.
-
-🤝 Open Source: Contributing (even in small ways) to open-source projects within my areas of interest.
-
-<h2 align="left">📊 My GitHub Activity</h2>
+<!-- HEADER: Gökkuşağı Çizgisi -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EnesEfeTokta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&border_radius=10" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EnesEfeTokta&bg_color=282a36&color=ff79c6&line=f8f8f2&point=bd93f9&area=true&hide_border=false&theme=dracula" height="160" alt="GitHub Activity Graph"/> 
-  <!-- Activity Graph can provide a more detailed view than the streak -->
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EnesEfeTokta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&border_radius=10" height="150" alt="Top Languages" />
-</div>
-
-<h2 align="left">🔗 Connect with Me & Contact</h2>
-
-<p align="left">
-  Feel free to reach out to discuss projects, talk tech, or explore potential collaborations through the platforms below:
-</p>
-
-<p align="left">
-  <a href="mailto:enesefetokta009@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a> 
-  <a href="https://www.linkedin.com/in/enes-efe-tokta" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a> 
-  <a href="https://medium.com/@enesefetokta009" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a> 
-  <a href="https://enes-efe-tokta.itch.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Itch.io-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io"/>
-  </a> 
-  <a href="https://enesefetokta.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-46a2f1?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/>
-  </a> 
-</p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/EnesEfeTokta/EnesEfeTokta/output/snake.svg" alt="Snake animation" />
+  <!-- Daktilo Efekti -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=282A3600&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World%22);Backend+Architect+%7C+.NET+Core;Game+Creator+%7C+Unity+Engine;Building+Universes+in+C%23..." alt="Typing SVG" />
+  
+  <h1 align="center">Enes Efe Tokta <span style="font-size: 15px;">🏳️‍🌈</span></h1>
+  
+  <a href="https://github.com/EnesEfeTokta">
+    <img src="https://komarev.com/ghpvc/?username=EnesEfeTokta&label=PROFILE+VIEWS&color=ff79c6&style=for-the-badge" alt="Profile Views" />
+  </a>
 </div>
 
 <br>
 
+<!-- ANA DASHBOARD (Tablo Sorunu Düzeltildi) -->
+<div align="center">
+<table width="100%">
+  <tr>
+    <!-- SOL TARA (Yazılar) -->
+    <td width="55%" valign="top">
+      <b>🚀 System Status:</b> <img src="https://img.shields.io/badge/-Online-50FA7B?style=flat-square&labelColor=282a36" height="20">
+      <br><br>
+      <b>>_ initiating_intro...</b><br>
+      Hi! I'm a Developer based in <b>Turkey</b>. I blend logic with creativity, building scalable <b>.NET backends</b> and immersive <b>Unity games</b>.
+      <br><br>
+      🌈 <i>Coding with pride, living with passion.</i>
+      <br><br>
+      🔭 <b>Focus:</b> Microservices, Cloud Architecture (AWS/Azure).<br>
+      🧬 <b>DNA:</b> C#, Coffee, and RPG Games.<br>
+      ⚡ <b>Mission:</b> To optimize performance and maximize player experience.
+    </td>
+    <!-- SAĞ TARAF (İstatistikler) -->
+    <td width="45%" valign="top" align="center">
+       <b>📊 Metrics Dashboard</b>
+       <br><br>
+       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EnesEfeTokta&show_icons=true&theme=dracula&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&disable_animations=false" height="150" alt="GitHub Stats" />
+       <br>
+       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=EnesEfeTokta&layout=compact&langs_count=6&theme=dracula&hide_border=true&hide_title=true&card_height=140" height="150" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+</div>
+
+<!-- TECH STACK (GERİ GELDİ VE DÜZENLENDİ) -->
+<h3 align="center">🛠️ Technologies & Arsenals</h3>
+<div align="center">
+  
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <br>
+  
+  <!-- Game Dev -->
+  <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Game_Design-000000?style=flat-square&logo=applearcade&logoColor=white" />
+  <br>
+  
+  <!-- Data & Cloud -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <br>
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white" />
+</div>
+
+<br>
+<!-- Renkli Ara Çizgi -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br>
+
+<!-- AKTIVITE VE ŞAKA (Yan Yana) -->
+<table width="100%">
+  <tr>
+    <td width="70%" valign="top">
+      <b>📈 Contribution Graph</b><br><br>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=EnesEfeTokta&bg_color=282a36&color=bd93f9&line=ff79c6&point=f8f8f2&area=true&hide_border=true&theme=dracula" width="100%" alt="Activity Graph"/>
+    </td>
+    <td width="30%" valign="top" align="center">
+       <b>⚡ Daily Joke</b><br><br>
+       <!-- Şaka kartı -->
+       <img src="https://readme-jokes.vercel.app/api?theme=dark&bg_color=282a36&color=f8f8f2&hide_border=true" width="230" alt="Jokes Card" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- SERTIFIKALAR (Açık Liste - Varsayılan Şekilde) -->
+<h3 align="left">🎓 Verified Certifications & Achievements</h3>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      🏆 <b>Google Game & App Academy</b><br>
+      ↳ <i>Finalist (Top 7 of 3000 Participants)</i>
+    </td>
+    <td width="50%">
+      📜 <b>Google Project Management</b><br>
+      ↳ <i>Professional Certificate by Google</i>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      ☁️ <b>AWS Cloud Solutions Architect</b><br>
+      ↳ <i>Learning Path Completed</i>
+    </td>
+    <td>
+      ☁️ <b>Microsoft Azure Fundamentals (AZ-900)</b><br>
+      ↳ <i>Exam Preparation & Fundamentals</i>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- SNAKE ANIMASYONU -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/EnesEfeTokta/EnesEfeTokta/output/snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+<!-- FOOTER: Dalgalanan Gökkuşağı (Gradient) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let's%20Connect!&fontSize=25&fontColor=ffffff" width="100%"/>
+</div>
+
 <p align="center">
-  <img src="https://profile-counter.glitch.me/EnesEfeTokta/count.svg?" alt="Profile views counter"/>
+  <a href="mailto:enesefetokta009@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"></a>
+  <a href="https://www.linkedin.com/in/enes-efe-tokta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"></a>
+  <a href="https://enes-efe-tokta.itch.io/"><img src="https://img.shields.io/badge/Itch.io-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white" height="25"></a>
 </p>
