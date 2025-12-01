@@ -6,7 +6,7 @@
   <!-- Daktilo Efekti -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=282A3600&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World%22);Backend+Architect+%7C+.NET+Core;Game+Creator+%7C+Unity+Engine;Building+Universes+in+C%23..." alt="Typing SVG" />
   
-  <h1 align="center">Enes Efe Tokta <span style="font-size: 15px;">🏳️‍🌈</span></h1>
+  <h1 align="center">Enes Efe Tokta <span style="font-size: 15px;"></span></h1>
   
   <a href="https://github.com/EnesEfeTokta">
     <img src="https://komarev.com/ghpvc/?username=EnesEfeTokta&label=PROFILE+VIEWS&color=ff79c6&style=for-the-badge" alt="Profile Views" />
