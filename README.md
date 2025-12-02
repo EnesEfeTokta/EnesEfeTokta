@@ -6,7 +6,7 @@
   <!-- Daktilo Efekti -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=282A3600&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World%22);Backend+Architect+%7C+.NET+Core;Game+Creator+%7C+Unity+Engine;Building+Universes+in+C%23..." alt="Typing SVG" />
   
-  <h1 align="center">Enes Efe Tokta <span style="font-size: 15px;"></span></h1>
+  <h1 align="center">Enes Efe Tokta <span style="font-size: 15px;">🏳️‍🌈</span></h1>
   
   <a href="https://github.com/EnesEfeTokta">
     <img src="https://komarev.com/ghpvc/?username=EnesEfeTokta&label=PROFILE+VIEWS&color=ff79c6&style=for-the-badge" alt="Profile Views" />
@@ -15,11 +15,20 @@
 
 <br>
 
-<!-- ANA DASHBOARD (Tablo Sorunu Düzeltildi) -->
+<!-- KUPALAR (Trophies) -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=EnesEfeTokta&theme=dracula&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="EnesEfeTokta Trophies" />
+  </a>
+</div>
+
+<br>
+
+<!-- ANA DASHBOARD -->
 <div align="center">
 <table width="100%">
   <tr>
-    <!-- SOL TARA (Yazılar) -->
+    <!-- SOL TARAF (Yazılar) -->
     <td width="55%" valign="top">
       <b>🚀 System Status:</b> <img src="https://img.shields.io/badge/-Online-50FA7B?style=flat-square&labelColor=282a36" height="20">
       <br><br>
@@ -32,46 +41,33 @@
       🧬 <b>DNA:</b> C#, Coffee, and RPG Games.<br>
       ⚡ <b>Mission:</b> To optimize performance and maximize player experience.
     </td>
-    <!-- SAĞ TARAF (İstatistikler) -->
+    <!-- SAĞ TARAF (WakaTime + Streak) -->
     <td width="45%" valign="top" align="center">
-       <b>📊 Metrics Dashboard</b>
+       <b>🔥 Activity & Coding Time</b>
        <br><br>
-       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EnesEfeTokta&show_icons=true&theme=dracula&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&disable_animations=false" height="150" alt="GitHub Stats" />
+       <!-- Streak Stats -->
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnesEfeTokta&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=ff79c6&fire=bd93f9&currStreakLabel=ff79c6" height="140" alt="GitHub Streak" />
        <br>
-       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=EnesEfeTokta&layout=compact&langs_count=6&theme=dracula&hide_border=true&hide_title=true&card_height=140" height="150" alt="Top Languages" />
+       <!-- WakaTime Stats (VS Code kullanımını gösterir) -->
+       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EnesEfeTokta&theme=dracula&layout=compact&hide_border=true&range=last_7_days" height="140" alt="WakaTime Stats" />
     </td>
   </tr>
 </table>
 </div>
 
-<!-- TECH STACK (GERİ GELDİ VE DÜZENLENDİ) -->
+<!-- TECH STACK (Kategorize) -->
 <h3 align="center">🛠️ Technologies & Arsenals</h3>
 <div align="center">
-  
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <br>
-  
-  <!-- Game Dev -->
   <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Game_Design-000000?style=flat-square&logo=applearcade&logoColor=white" />
-  <br>
-  
-  <!-- Data & Cloud -->
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <br>
-  
-  <!-- Tools -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 </div>
 
 <br>
@@ -79,7 +75,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <br>
 
-<!-- AKTIVITE VE ŞAKA (Yan Yana) -->
+<!-- AKTIVITE VE ŞAKA -->
 <table width="100%">
   <tr>
     <td width="70%" valign="top">
@@ -88,7 +84,6 @@
     </td>
     <td width="30%" valign="top" align="center">
        <b>⚡ Daily Joke</b><br><br>
-       <!-- Şaka kartı -->
        <img src="https://readme-jokes.vercel.app/api?theme=dark&bg_color=282a36&color=f8f8f2&hide_border=true" width="230" alt="Jokes Card" />
     </td>
   </tr>
@@ -96,7 +91,7 @@
 
 <br>
 
-<!-- SERTIFIKALAR (Açık Liste - Varsayılan Şekilde) -->
+<!-- SERTIFIKALAR -->
 <h3 align="left">🎓 Verified Certifications & Achievements</h3>
 <table width="100%">
   <tr>
@@ -109,26 +104,24 @@
       ↳ <i>Professional Certificate by Google</i>
     </td>
   </tr>
-  <tr>
-    <td>
-      ☁️ <b>AWS Cloud Solutions Architect</b><br>
-      ↳ <i>Learning Path Completed</i>
-    </td>
-    <td>
-      ☁️ <b>Microsoft Azure Fundamentals (AZ-900)</b><br>
-      ↳ <i>Exam Preparation & Fundamentals</i>
-    </td>
-  </tr>
 </table>
 
 <br>
 
-<!-- SNAKE ANIMASYONU -->
+<!-- GÖRSEL ŞOV BÖLÜMÜ (3D Şehir & Snake) -->
+<h3 align="center">🏗️ 3D Contribution City & Snake Game</h3>
+
 <div align="center">
+  <!-- 3D Şehir (Bunun için aşağıdaki Action adımını yapmalısın) -->
+  <img src="https://raw.githubusercontent.com/EnesEfeTokta/EnesEfeTokta/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D City" width="100%" />
+  
+  <br><br>
+
+  <!-- Snake Animasyonu -->
   <img src="https://raw.githubusercontent.com/EnesEfeTokta/EnesEfeTokta/output/snake.svg" alt="Snake animation" width="100%" />
 </div>
 
-<!-- FOOTER: Dalgalanan Gökkuşağı (Gradient) -->
+<!-- FOOTER: Dalgalanan Gökkuşağı -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let's%20Connect!&fontSize=25&fontColor=ffffff" width="100%"/>
 </div>
