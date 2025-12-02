@@ -3,7 +3,7 @@ name: WakaTime Stats (Graph)
 on:
   schedule:
     # Her 6 saatte bir güncellensin
-    - cron: '0 */6 * * *'
+    - cron: '0 */3 * * *'
   workflow_dispatch:
 
 jobs:
