@@ -1,13 +1,14 @@
-name: WakaTime Stats (Image)
+name: WakaTime Stats (Graph)
 
 on:
   schedule:
-    - cron: '0 */12 * * *'
+    # Her 6 saatte bir güncellensin
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Generate WakaTime Image
+    name: Generate WakaTime Graph
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -16,12 +17,13 @@ jobs:
         with:
           filename: wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
+          base: "" # Gereksiz başlıkları kapatır
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 7
-          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
-          plugin_wakatime_limit: 5
-          config_theme: dracula
-          config_padding: 0, 8
-          config_display: large
+          plugin_wakatime_sections: time, languages, languages-graphs
+          plugin_wakatime_limit: 4
+          # GÖRÜNÜM AYARLARI (DÜZELTME)
+          config_theme: dracula # Senin temanla uyumlu parlak renkler
+          config_display: regular # Büyük görünüm
+          config_padding: 0, 10
