@@ -2,7 +2,6 @@ name: WakaTime Stats (Image)
 
 on:
   schedule:
-    # Her 12 saatte bir çalışır
     - cron: '0 */12 * * *'
   workflow_dispatch:
 
@@ -11,18 +10,18 @@ jobs:
     name: Generate WakaTime Image
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Yazma izni şart
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: wakatime.svg # Bu isimde bir resim oluşturacak
+          filename: wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }} # Senin kaydettiğin anahtarı kullanır
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 7
           plugin_wakatime_sections: time, languages, languages-graphs, editors, os
           plugin_wakatime_limit: 5
-          config_theme: dracula # Senin temana uygun
+          config_theme: dracula
           config_padding: 0, 8
           config_display: large
