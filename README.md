@@ -44,10 +44,9 @@
     <td width="45%" valign="top" align="center">
        <b>🔥 Activity & Coding Time</b>
        <br><br>
-       <!-- Streak Stats Image -->
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnesEfeTokta&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=ff79c6&fire=bd93f9&currStreakLabel=ff79c6" height="140" alt="GitHub Streak" />
+       <img align="center" src="https://github-readme-stats-thanhnguyxns-projects.vercel.app/api?username=EnesEfeTokta&show_icons=true&locale=en&theme=dracula&count_private=true" alt="ThanhNguyxn's GitHub Stats" />
        <br>
-       <img src="https://raw.githubusercontent.com/EnesEfeTokta/EnesEfeTokta/main/wakatime.svg" alt="WakaTime Stats" width="100%" />
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnesEfeTokta&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=ff79c6&fire=bd93f9&currStreakLabel=ff79c6" height="140" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
