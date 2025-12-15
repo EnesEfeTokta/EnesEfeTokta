@@ -100,6 +100,8 @@
 </table>
 
 <br>
+<img src="https://github.com/EnesEfeTokta/EnesEfeTokta/blob/main/github-metrics.svg" alt="Jokes Card" />
+<br>
 
 <!-- SERTIFIKALAR (2 Sütunlu Açık Liste) -->
 <h3 align="left">🎓 Verified Certifications & Achievements</h3>
