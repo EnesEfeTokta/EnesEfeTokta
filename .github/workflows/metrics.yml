@@ -1,10 +1,12 @@
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  schedule: [{ "cron": "0 0 * * *" }]
-  # Lines below let you run workflow manually and on each commit
+  # Her gece 00:00'da otomatik çalışır
+  schedule: [{cron: "0 0 * * *"}]
+  # Manuel çalıştırmak için buton ekler
   workflow_dispatch:
+  # Her commit attığında güncellensin istersen bu satırın başındaki # işaretini kaldır:
   # push: {branches: ["master", "main"]}
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -14,25 +16,34 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_force: true
-          cancel-in-progress: true
-
-          # Options
-          user: masterking32
+          
+          # --- Temel Ayarlar ---
+          user: ${{ github.repository_owner }} # Otomatik olarak senin adını alır
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           config_octicon: yes
-          config_timezone: Asia/Tehran
-          plugin_achievements: no
+          config_timezone: Europe/Istanbul # Türkiye saati
+          filename: github-metrics.svg # Oluşacak dosyanın adı
+          committer_force: true
+
+          # --- Başarımlar / Kupalar ---
+          # Referans kodunda kupalar kapalıydı (no). 
+          # Eğer kupa da istersen burayı 'yes' yapabilirsin.
+          plugin_achievements: yes 
           plugin_achievements_display: compact
-          plugin_achievements_secrets: no
           plugin_achievements_threshold: C
+          
+          # --- Gist Sayısı ---
           plugin_gists: yes
+          
+          # --- Ortadaki Takip Grafikleri (Issues/PRs) ---
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_indepth: yes
           plugin_followup_sections: repositories
+          
+          # --- Diller (Languages) ---
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
