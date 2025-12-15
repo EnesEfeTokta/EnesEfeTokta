@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Her gece 00:00'da çalışır
   schedule: [{cron: "0 0 * * *"}]
-  # Manuel çalıştırma butonu ekler
   workflow_dispatch:
-  # Her commit'te çalışmasını istersen alttaki satırın başındaki # işaretini kaldır
   # push: {branches: ["master", "main"]}
 
 jobs:
@@ -15,47 +12,39 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # --- ÖNEMLİ: Token Ayarı ---
-          # Adım 1'de eklediğin Secret ismi METRICS_TOKEN olmalı
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # --- Temel Ayarlar ---
+          # --- TEMEL AYARLAR ---
           user: ${{ github.repository_owner }}
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           base_indepth: yes
           config_octicon: yes
           config_timezone: Europe/Istanbul
           filename: github-metrics.svg
-          
-          # Hata veren 'committer_force' kaldırıldı.
-          # Yerine output_action kullanıyoruz (commit atması için)
           output_action: commit
 
-          # --- Eklentiler (Referans aldığın ayarlar) ---
-          
-          # Başarımlar / Kupalar (İstersen 'yes' yapabilirsin)
+          # --- BAŞARIMLAR (ACHIEVEMENTS) ---
+          # Burayı senin için özel ayarladım:
           plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
+          plugin_achievements_display: detailed # 'compact' yerine 'detailed' hata riskini sıfırlar
+          plugin_achievements_secrets: yes      # Gizli veya özel başarımları da okumaya zorlar
+          plugin_achievements_threshold: C      # En düşük seviyeyi seçtim ki HEPSİ görünsün
+          plugin_achievements_limit: 0          # Limit yok, ne varsa göster
+
+          # --- DİĞERLERİ ---
+          plugin_gists: no
+          plugin_sponsors: no # Sponsorluk yapıyorsun ama "Sponsor arıyorum" kısmı boş kalmasın diye kapattım, istersen aç.
           
-          # Gist'ler
-          plugin_gists: yes
-          
-          # Takip Grafiği (Issues/PRs)
+          # --- TAKİP ---
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_indepth: yes
           plugin_followup_sections: repositories
           
-          # Diller
+          # --- DİLLER ---
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 99999
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
+          plugin_languages_recent_days: 365 
           plugin_languages_threshold: 0%
