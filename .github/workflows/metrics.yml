@@ -1,8 +1,10 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{ "cron": "0 0 * * *" }]
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  # push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -12,18 +14,32 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          
-          # --- Temel Ayarlar ---
-          user: ${{ github.repository_owner }}
+          committer_force: true
+          cancel-in-progress: true
+
+          # Options
+          user: masterking32
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Istanbul
-          
+          base_indepth: yes
+          config_octicon: yes
+          config_timezone: Asia/Tehran
+          plugin_achievements: no
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: no
+          plugin_achievements_threshold: C
+          plugin_gists: yes
           plugin_followup: yes
+          plugin_followup_archived: yes
+          plugin_followup_indepth: yes
           plugin_followup_sections: repositories
-          
           plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 8
-          
-          plugin_gists: yes
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 99999
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
