@@ -18,7 +18,7 @@
 <!-- KUPALAR (Gamification Rank Sistemi) -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=EnesEfeTokta&theme=dracula&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="EnesEfeTokta Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=EnesEfeTokta&t=1" alt="EnesEfeTokta Trophies" />
   </a>
 </div>
 
@@ -89,6 +89,8 @@
     <td width="70%" valign="top">
       <b>📈 Contribution Graph</b><br><br>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=EnesEfeTokta&bg_color=282a36&color=bd93f9&line=ff79c6&point=f8f8f2&area=true&hide_border=true&theme=dracula" width="100%" alt="Activity Graph"/>
+      <br>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnesEfeTokta&theme=dracula" alt="EnesEfeTokta" />
     </td>
     <td width="30%" valign="top" align="center">
        <b>⚡ Daily Joke</b><br><br>
