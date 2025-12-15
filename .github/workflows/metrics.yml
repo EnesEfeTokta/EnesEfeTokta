@@ -1,10 +1,10 @@
 name: Metrics
 on:
-  # Her gece 00:00'da otomatik çalışır
+  # Her gece 00:00'da çalışır
   schedule: [{cron: "0 0 * * *"}]
-  # Manuel çalıştırmak için buton ekler
+  # Manuel çalıştırma butonu ekler
   workflow_dispatch:
-  # Her commit attığında güncellensin istersen bu satırın başındaki # işaretini kaldır:
+  # Her commit'te çalışmasını istersen alttaki satırın başındaki # işaretini kaldır
   # push: {branches: ["master", "main"]}
 
 jobs:
@@ -15,35 +15,40 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # --- ÖNEMLİ: Token Ayarı ---
+          # Adım 1'de eklediğin Secret ismi METRICS_TOKEN olmalı
           token: ${{ secrets.METRICS_TOKEN }}
-          
+
           # --- Temel Ayarlar ---
-          user: ${{ github.repository_owner }} # Otomatik olarak senin adını alır
+          user: ${{ github.repository_owner }}
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           config_octicon: yes
-          config_timezone: Europe/Istanbul # Türkiye saati
-          filename: github-metrics.svg # Oluşacak dosyanın adı
-          committer_force: true
+          config_timezone: Europe/Istanbul
+          filename: github-metrics.svg
+          
+          # Hata veren 'committer_force' kaldırıldı.
+          # Yerine output_action kullanıyoruz (commit atması için)
+          output_action: commit
 
-          # --- Başarımlar / Kupalar ---
-          # Referans kodunda kupalar kapalıydı (no). 
-          # Eğer kupa da istersen burayı 'yes' yapabilirsin.
-          plugin_achievements: yes 
+          # --- Eklentiler (Referans aldığın ayarlar) ---
+          
+          # Başarımlar / Kupalar (İstersen 'yes' yapabilirsin)
+          plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: C
           
-          # --- Gist Sayısı ---
+          # Gist'ler
           plugin_gists: yes
           
-          # --- Ortadaki Takip Grafikleri (Issues/PRs) ---
+          # Takip Grafiği (Issues/PRs)
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_indepth: yes
           plugin_followup_sections: repositories
           
-          # --- Diller (Languages) ---
+          # Diller
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
