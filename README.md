@@ -18,7 +18,7 @@
 <!-- KUPALAR (Gamification Rank Sistemi) -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=EnesEfeTokta&theme=dracula&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="YusufcanKadagan04 Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=EnesEfeTokta&theme=dracula&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Enes Efe Tokta Trophies" />
   </a>
 </div>
 
