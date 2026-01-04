@@ -18,7 +18,7 @@
 <!-- KUPALAR (Gamification Rank Sistemi) -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img height=200 align="center" src="https://github-profile-trophy-drab.vercel.app?username=EnesEfeTokta&theme=dracula&no-frame=true&row=1&column=9&margin-w=15&margin-h=15" alt="YusufcanKadagan04 Trophies" />
+    <img height=200 align="center" src="https://github-profile-trophy-drab.vercel.app?username=EnesEfeTokta&theme=dracula&no-frame=true&row=1&column=9&margin-w=15&margin-h=15" alt="Enes Efe Tokta Trophies" />
   </a>
 </div>
 
@@ -44,8 +44,7 @@
     <td width="45%" valign="top" align="center">
        <b>🔥 Activity & Coding Time</b>
        <br><br>
-       <img height=200 align="center" src="https://github-readme-stats-theta-pearl.vercel.app/api?username=EnesEfeTokta&show_icons=true&theme=dracula&hide_title=false&hide_border=true&include_all_commits=false&rank_icon=default&card_width=300&title_color=3DDC84&text_color=417E87" />
-</a>
+       <img height=200 align="center" src="https://github-readme-stats-theta-pearl.vercel.app/api?username=EnesEfeTokta&show_icons=true&theme=dracula&hide_title=false&hide_border=true&include_all_commits=false&rank_icon=default&card_width=300" />
        <br>
        <img height=200 align="center" src="https://github-readme-streak-stats-eight-chi.vercel.app?user=EnesEfeTokta&theme=dracula&hide_border=true&card_width=783&sideNums=3DDC84&currStreakNum=FF5F5F&sideLabels=417E87&dates=85A4C0&stroke=2C3C2C" />
     </td>
