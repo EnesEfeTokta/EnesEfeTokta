@@ -46,7 +46,7 @@
        <br><br>
        <img height=200 align="center" src="https://github-readme-stats-theta-pearl.vercel.app/api?username=EnesEfeTokta&show_icons=true&theme=dracula&hide_title=false&hide_border=true&include_all_commits=false&rank_icon=default&card_width=300" />
        <br>
-       <img height=200 align="center" src="https://github-readme-streak-stats-eight-chi.vercel.app?user=EnesEfeTokta&theme=dracula&hide_border=true&card_width=783&sideNums=3DDC84&currStreakNum=FF5F5F&sideLabels=417E87&dates=85A4C0&stroke=2C3C2C" />
+       <img height=200 align="center" src="https://github-readme-streak-stats-eight-chi.vercel.app?user=EnesEfeTokta&theme=dracula&hide_border=true&card_width=783" />
     </td>
   </tr>
 </table>
