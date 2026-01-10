@@ -44,7 +44,7 @@
     <td width="45%" valign="top" align="center">
        <b>🔥 Activity & Coding Time</b>
        <br><br>
-       <img height=200 align="center" src="https://github-readme-stats-theta-pearl.vercel.app/api?username=EnesEfeTokta&show_icons=true&theme=dracula&hide_title=false&hide_border=true&include_all_commits=false&rank_icon=default&card_width=300" />
+       <img height=200 align="center" src="https://github-readme-stats-theta-pearl.vercel.app/api?username=EnesEfeTokta&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula&hide_title=false&hide_border=true&include_all_commits=false&rank_icon=default" />
        <br>
        <img height=200 align="center" src="https://github-readme-streak-stats-eight-chi.vercel.app?user=EnesEfeTokta&theme=dracula&hide_border=true&card_width=783" />
     </td>
@@ -100,7 +100,7 @@
 </table>
 
 <br>
-<img src="https://github.com/EnesEfeTokta/EnesEfeTokta/blob/main/github-metrics.svg" alt="Jokes Card" />
+<img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=EnesEfeTokta\&layout=compact&theme=dracula" alt="Jokes Card" />
 <br>
 
 <!-- SERTIFIKALAR (2 Sütunlu Açık Liste) -->
