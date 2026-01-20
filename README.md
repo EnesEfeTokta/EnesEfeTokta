@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Dynamic Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=100&lines=Hi%2C+I'm+Enes+Efe+Tokta+%F0%9F%91%8B;Backend+Architect+%7C+.NET+Core;Unity+Game+Developer;Building+Scalable+Systems;Crafting+Immersive+Experiences" alt="Typing SVG" />
+# 🚀 Enes Efe Tokta
 
-### Software Engineer · Game Developer · Cloud Architect
-📍 Erzurum, Turkey 🌍 | 🌈 Open to Global Opportunities
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Engineer+%F0%9F%92%BB;Game+Developer+%F0%9F%8E%AE;Cloud+Architect+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
+
+📍 **Erzurum, Turkey** | 🌈 **Open to Global Remote Opportunities**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-efe-tokta)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enesefetokta009@gmail.com)
@@ -15,47 +15,83 @@
 
 ---
 
-## 🚀 About Me
+## Professional Profile
 
 ```csharp
-public class EnesEfeTokta : IDeveloper, IGameCreator
+public class EnesEfeTokta : IDeveloper, IGameCreator, ICloudArchitect
 {
-    public string Location { get; } = "Erzurum, Turkey";
-    public string[] Roles { get; } = { "Backend Architect", "Game Developer", "Cloud Engineer" };
-    public string CurrentFocus { get; } = "Microservices & Cloud-Native Architecture";
-    
-    public string Mission => 
-        "Building robust backend systems and immersive gaming experiences " +
-        "that scale globally and delight users worldwide.";
-    
-    public Dictionary<string, string[]> TechStack => new()
+    public Profile Information => new()
     {
-        ["Backend"] = new[] { "C#", ".NET Core", "ASP.NET", "Microservices" },
-        ["Game Dev"] = new[] { "Unity", "C#", "Game Design", "Blender" },
-        ["Cloud"] = new[] { "AWS", "Azure", "Docker", "Kubernetes" },
-        ["Database"] = new[] { "PostgreSQL", "Redis", "Supabase" },
-        ["Mobile"] = new[] { "Kotlin", "Android Development" }
+        Location = "Erzurum, Turkey 🇹🇷",
+        Availability = "Remote • Europe • North America",
+        Experience = new[] { 
+            "Backend Architecture", 
+            "Game Development", 
+            "Cloud Engineering",
+            "Mobile Development"
+        },
+        CurrentFocus = "Microservices & Cloud-Native Architecture",
+        Passion = "Building scalable systems and immersive gaming experiences"
     };
-    
-    public void SayHello() => 
-        Console.WriteLine("Let's build something amazing together! 🚀");
+
+    public TechStack Skills => new()
+    {
+        Backend = new[] { "C#", ".NET Core", "ASP.NET", "Microservices", "REST APIs" },
+        GameDev = new[] { "Unity Engine", "C#", "Game Design", "Blender 3D" },
+        Cloud = new[] { "AWS", "Azure", "Docker", "Kubernetes", "Serverless" },
+        Database = new[] { "PostgreSQL", "Redis", "Supabase", "SQL Server" },
+        Mobile = new[] { "Kotlin", "Android SDK", "Mobile Architecture" }
+    };
 }
 ```
 
-### 🎯 What I Do
+---
 
-- 🏗️ **Backend Architecture**: Designing and implementing scalable microservices with .NET Core
-- 🎮 **Game Development**: Creating engaging experiences with Unity Engine
-- ☁️ **Cloud Solutions**: Architecting cloud-native applications on AWS and Azure
-- 🔧 **Performance Optimization**: Making systems faster, more efficient, and reliable
+## Core Competencies
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**Backend Engineering**
+
+Building distributed systems with .NET Core that handle millions of requests with high availability and fault tolerance.
+
+Microservices Architecture • RESTful APIs  
+Event-Driven Systems • CQRS & DDD
+
+</td>
+<td width="33%" align="center">
+
+**Game Development**
+
+Creating engaging gameplay experiences from concept to deployment with focus on performance and player satisfaction.
+
+Unity 3D Games • Multiplayer Features  
+Game Mechanics • Cross-Platform
+
+</td>
+<td width="33%" align="center">
+
+**Cloud Architecture**
+
+Designing and implementing scalable, resilient cloud infrastructure on AWS and Azure platforms.
+
+Container Orchestration • Serverless  
+CI/CD Pipelines • Infrastructure as Code
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 <div align="center">
 
-### Core Technologies
+### Programming Languages & Frameworks
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
@@ -63,12 +99,15 @@ public class EnesEfeTokta : IDeveloper, IGameCreator
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### Databases & Tools
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -79,105 +118,127 @@ public class EnesEfeTokta : IDeveloper, IGameCreator
 
 ---
 
-## 🏆 Achievements & Certifications
+## Achievements & Certifications
 
 <div align="center">
 
-| Achievement | Details |
-|-------------|---------|
-| 🥇 **Google Game & App Academy** | Top 7 Finalist out of 3,000+ participants |
-| 📜 **Google Project Management** | Professional Certificate |
-| ☁️ **AWS Solutions Architect** | Learning Path Completed |
-| ☁️ **Microsoft Azure Fundamentals** | AZ-900 Preparation |
+| Achievement | Details | Year |
+|:-------------:|-----------|:--------:|
+| 🥇 **Google Game & App Academy** | Top 7 Finalist among 3,000+ participants | 2024 |
+| 📜 **Google Project Management** | Professional Certificate | 2024 |
+| ☁️ **AWS Solutions Architect** | Learning Path Completed | 2024 |
+| 🔷 **Microsoft Azure Fundamentals** | AZ-900 Preparation | 2024 |
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img height=200 align="center" src="https://github-profile-trophy-drab.vercel.app?username=EnesEfeTokta&theme=dracula&no-frame=true&row=1&column=9&margin-w=15&margin-h=15" alt="Enes Efe Tokta Trophies" />
+<img align="center" src="https://github-profile-trophy-drab.vercel.app?username=EnesEfeTokta&theme=algolia&no-frame=true&row=1&column=9&margin-w=15&margin-h=15" alt="Enes Efe Tokta Trophies" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight-chi.vercel.app?user=EnesEfeTokta&theme=dark&hide_border=true&border_radius=8&card_width=500&ring=6C63FF&fire=FF6C37&currStreakLabel=6C63FF" alt="GitHub Streak" />
+<img height="180em" src="https://github-readme-stats-theta-pearl.vercel.app/api?username=EnesEfeTokta&show_icons=true&theme=algolia&hide_border=true&border_radius=8&include_all_commits=false&count_private=true" alt="GitHub Streak" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnesEfeTokta&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
 
 </div>
 
+---
+
+## Contribution Activity
+
 <div align="center">
+
+<img src="https://github-readme-streak-stats-eight-chi.vercel.app?user=EnesEfeTokta&theme=algolia&hide_border=true&border_radius=8&card_width=500&ring=6C63FF&fire=FF6C37&currStreakLabel=6C63FF" />
+
+<img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=EnesEfeTokta&layout=compact&theme=algolia&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EnesEfeTokta&theme=github-compact&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
+
+</div>
+
+---
+
+## Current Focus & Projects
+
+<div align="center">
+
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#6C63FF','primaryTextColor':'#ffffff','primaryBorderColor':'#6C63FF','lineColor':'#6C63FF','secondaryColor':'#4CAF50','tertiaryColor':'#FF9800','noteBkgColor':'#2196F3','noteTextColor':'#ffffff'}}}%%
+mindmap
+  root((Enes Efe Tokta))
+    Backend Development
+      Microservices Architecture
+      .NET Core APIs
+      Event-Driven Systems
+      Performance Optimization
+    Game Development
+      Unity 3D Games
+      Multiplayer Features
+      Game Mechanics
+      Player Experience
+    Cloud Engineering
+      AWS Services
+      Azure Platform
+      Serverless Architecture
+    Learning & Growth
+      System Design
+      C#
+      Cloud Certifications
+      Game AI
+```
+
+</div>
+
+**Active Projects:**
+- Building microservices architecture with .NET Core and CQRS patterns
+- Developing scalable real-time multiplayer systems with Unity
+- Creating serverless applications on AWS Lambda and Azure Functions
+- Building Android applications with modern Kotlin architecture
+
+---
+
+## Development Principles
+
 <table>
 <tr>
-<td>
-<img src="https://github-readme-stats-theta-pearl.vercel.app/api?username=EnesEfeTokta&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&border_radius=8&include_all_commits=false&count_private=true" alt="Stats" />
-</td>
+<td width="50%">
 
-<td>
-  <img src="https://github-readme-stats-theta-pearl.vercel.app/api/top-langs/?username=EnesEfeTokta&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&border_radius=8&langs_count=6" alt="Languages" />
-</td>
+**Architecture & Design**
 
+- SOLID Principles
+- Clean Architecture
+- Domain-Driven Design
+- Microservices Patterns
+- Event-Driven Architecture
+- Test-Driven Development
+
+</td>
+<td width="50%">
+
+**Professional Standards**
+
+- Code Reviews & Pair Programming
+- Continuous Integration/Deployment
+- Comprehensive Documentation
+- Performance Monitoring
+- Security Best Practices
+- Agile & Scrum Methodologies
+
+</td>
 </tr>
 </table>
-</div>
-
----
-
-## 📈 Activity Breakdown
-
-<div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EnesEfeTokta&custom_title=Contribution%20Activity&bg_color=0D1117&color=6C63FF&line=FF6C37&point=FFFFFF&area=true&hide_border=true&theme=react-dark" width="95%" alt="Activity Graph"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnesEfeTokta&theme=github_dark" width="95%" alt="Profile Summary" />
-</div>
-
----
-
-## 💼 Professional Highlights
-
-Current_Focus:
-  - Microservices architecture with .NET Core
-  - Cloud-native application development
-  - Game mechanics and player experience optimization
-  
-Recent_Projects:
-  - Enterprise-grade backend systems with high availability
-  - Real-time multiplayer game features
-  - Serverless architectures on AWS/Azure
-  
-Open_To:
-  - Remote opportunities in EU/North America
-  - Collaborative projects in game dev or cloud engineering
-  - Technical consulting and architecture reviews
-
----
-
-## 🌟 Featured Work
 
 <div align="center">
 
-### 🎮 Game Development Portfolio
-Check out my published games and interactive experiences on [itch.io](https://enes-efe-tokta.itch.io/)
-
-### 🏗️ Architecture & Code Quality
-I believe in writing clean, maintainable code that scales. My projects follow SOLID principles, design patterns, and industry best practices.
+> *"First, solve the problem. Then, write the code."* - John Johnson
 
 </div>
 
 ---
 
-## 📈 Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=EnesEfeTokta&layout=compact&theme=tokyonight&hide_border=true" alt="Wakatime Stats"/>
-</div>
-
----
-
-## 🎨 Contribution Visualization
+## Contribution Visualization
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/EnesEfeTokta/EnesEfeTokta/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
@@ -189,21 +250,34 @@ I believe in writing clean, maintainable code that scales. My projects follow SO
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect
 
 <div align="center">
 
-I'm always interested in connecting with fellow developers, tech leaders, and innovators. Whether you're looking to collaborate on a project, discuss technology, or explore opportunities, feel free to reach out!
+**I'm Open To:**
 
-**🌍 Available for remote opportunities in Europe & North America**
+Remote Opportunities • Freelance Projects • Open Source Contributions • Technical Consulting • Mentorship
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-efe-tokta)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enesefetokta009@gmail.com)
+### Get In Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-efe-tokta)
+[![Email](https://img.shields.io/badge/Email-Let's%20Discuss-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enesefetokta009@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://enes-efe-tokta.itch.io/)
+
+**Available for Remote Work: Europe • North America • Global Projects**
+
+</div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+<div align="center">
 
-**⭐ From [EnesEfeTokta](https://github.com/EnesEfeTokta) with 💜**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=0" width="100%">
+
+**⭐ From [EnesEfeTokta](https://github.com/EnesEfeTokta) • Crafted with 💜 and ☕**
+
+```
+"The best way to predict the future is to implement it." 🚀
+```
 
 </div>
