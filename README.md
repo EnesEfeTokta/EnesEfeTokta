@@ -2,7 +2,7 @@
 
 # 🚀 Enes Efe Tokta
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Engineer+%F0%9F%92%BB;Game+Developer+%F0%9F%8E%AE;Cloud+Architect+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Developer+%F0%9F%92%BB;Game+Developer+%F0%9F%8E%AE;Cloud+Architect+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
 📍 **Erzurum, Turkey** | 🌈 **Open to Global Remote Opportunities**
 
