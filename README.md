@@ -124,10 +124,10 @@ CI/CD Pipelines • Infrastructure as Code
 
 | Achievement | Details | Year |
 |:-------------:|-----------|:--------:|
+| ☁️ **AWS Solutions Architect** | Learning Path Completed | 2025 |
+| 🔷 **Microsoft Azure Fundamentals** | AZ-900 Preparation | 2025 |
 | 🥇 **Google Game & App Academy** | Top 7 Finalist among 3,000+ participants | 2024 |
 | 📜 **Google Project Management** | Professional Certificate | 2024 |
-| ☁️ **AWS Solutions Architect** | Learning Path Completed | 2024 |
-| 🔷 **Microsoft Azure Fundamentals** | AZ-900 Preparation | 2024 |
 
 <img align="center" src="https://github-profile-trophy-drab.vercel.app?username=EnesEfeTokta&theme=algolia&no-frame=true&row=1&column=9&margin-w=15&margin-h=15" alt="Enes Efe Tokta Trophies" />
 
