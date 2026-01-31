@@ -27,7 +27,7 @@ public class EnesEfeTokta : IDeveloper, IGameCreator, ICloudArchitect
         Experience = new[] { 
             "Backend Architecture", 
             "Game Development", 
-            "Cloud Engineering",
+            "Cloud Architect",
             "Mobile Development"
         },
         CurrentFocus = "Microservices & Cloud-Native Architecture",
@@ -178,7 +178,7 @@ mindmap
       Multiplayer Features
       Game Mechanics
       Player Experience
-    Cloud Engineering
+    Cloud Architect
       AWS Services
       Azure Platform
       Serverless Architecture
