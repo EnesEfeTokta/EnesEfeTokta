@@ -152,11 +152,11 @@ CI/CD Pipelines • Infrastructure as Code
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight-chi.vercel.app?user=EnesEfeTokta&theme=algolia&hide_border=true&border_radius=8&card_width=500&ring=6C63FF&fire=FF6C37&currStreakLabel=6C63FF" />
+<img src="https://github-readme-streak-stats-eight-chi.vercel.app?user=EnesEfeTokta&theme=algolia&hide_border=true&border_radius=8&card_width=500&ring=6C63FF&fire=FF6C37&currStreakLabel=6C63FF" style="width: 310px;" />
 
-<img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=EnesEfeTokta&layout=compact&theme=algolia&hide_border=true" />
+<img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=EnesEfeTokta&layout=compact&theme=algolia&hide_border=true" style="width: 250px;" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EnesEfeTokta&theme=github-compact&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EnesEfeTokta&theme=github-compact&hide_border=true&custom_title=Contribution%20Activity%20Graph" style="width: 500px;" />
 
 </div>
 
