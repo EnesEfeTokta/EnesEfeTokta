@@ -142,7 +142,7 @@ CI/CD Pipelines • Infrastructure as Code
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats-theta-pearl.vercel.app/api?username=EnesEfeTokta&show_icons=true&theme=algolia&hide_border=true&border_radius=8&include_all_commits=false&count_private=true" alt="GitHub Streak" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnesEfeTokta&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-theta-pearl.vercel.app/api/top-langs/?username=EnesEfeTokta&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
 
 </div>
 
