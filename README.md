@@ -1,14 +1,17 @@
 <div align="center">
 
-# 🚀 Enes Efe Tokta
+<div align="center">
+  <img src="https://raw.githubusercontent.com/EnesEfeTokta/EnesEfeTokta/main/game.gif" alt="gh-space-shooter" width="100%" />
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Developer+%F0%9F%92%BB;Game+Developer+%F0%9F%8E%AE;Cloud+Architect+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=700&color=6C63FF&center=true&vCenter=true&width=820&lines=✨+Enes+Efe+Tokta+✨;❤️‍🔥+Backend+Developer+❤️‍🔥;🎮+Unity+Developer+🎮;☁️+Cloud+Architect+☁️" />
 
 📍 **Erzurum, Turkey** | 🌈 **Open to Global Remote Opportunities**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-efe-tokta)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enesefetokta009@gmail.com)
-[![Itch.io](https://img.shields.io/badge/Portfolio-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://enes-efe-tokta.itch.io/)
+[![My Portfolio](https://img.shields.io/badge/My_Portfolio-6C63FF?style=for-the-badge&logo=globe&logoColor=white)](https://enesefetokta.github.io/portfolio/)
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://enes-efe-tokta.itch.io/)
 [![Profile Views](https://komarev.com/ghpvc/?username=EnesEfeTokta&label=Profile%20Views&color=6C63FF&style=for-the-badge)](https://github.com/EnesEfeTokta)
 
 </div>
@@ -96,7 +99,6 @@ CI/CD Pipelines • Infrastructure as Code
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Cloud & DevOps
 
@@ -234,14 +236,6 @@ mindmap
 
 > *"First, solve the problem. Then, write the code."* - John Johnson
 
-</div>
-
----
-
-## Contribution Visualization
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/EnesEfeTokta/EnesEfeTokta/main/game.gif" alt="gh-space-shooter" width="100%" />
 </div>
 
 ---
