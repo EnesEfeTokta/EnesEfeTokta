@@ -241,11 +241,7 @@ mindmap
 ## Contribution Visualization
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/EnesEfeTokta/EnesEfeTokta/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
-  
-  <br>
-  
-  <img src="https://raw.githubusercontent.com/EnesEfeTokta/EnesEfeTokta/output/snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/EnesEfeTokta/EnesEfeTokta/main/game.gif" alt="gh-space-shooter" width="100%" />
 </div>
 
 ---
